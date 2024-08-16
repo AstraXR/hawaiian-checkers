@@ -1,7 +1,7 @@
 /**
 * CISC 187 - Data Structures in C++ 
 * Professor Dave Parillo
-* Author: Sophia Su
+* Author: Astra Su
 * ID: 0005623258
 */ 
 
