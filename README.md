@@ -1,7 +1,5 @@
-# hawaiian-checkers
 
-
-# Konane Game
+# Hawaiian Checkers - Konane Game
 
 ## Description
 
