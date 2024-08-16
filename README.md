@@ -51,4 +51,3 @@ g++ -std=c++17 main.cpp game.cpp options.cpp computer_player.cpp -o konane
 
 - Professor Dave Parillo, CISC 187 - Data Structures in C++
 
-```
