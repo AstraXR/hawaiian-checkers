@@ -1,6 +1,6 @@
 # hawaiian-checkers
 
-```markdown
+
 # Konane Game
 
 ## Description
